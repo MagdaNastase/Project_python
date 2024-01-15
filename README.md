@@ -40,13 +40,3 @@ Imaginile trebuie să fie disponibile în directorul curent pentru a asigura afi
 Cheia API de la OpenWeatherMap este necesară pentru a obține datele meteorologice și trebuie înlocuită în cod. 
 
  
-
-GITHUB: https://github.com/MagdaNastase/Proiect_final_python 
-
- 
-
- 
-
- 
-
- 
